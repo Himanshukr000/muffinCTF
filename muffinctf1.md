@@ -11,7 +11,7 @@
 
 ## Writeup:
 
-To start with I got a string that makes nosense except it was rotated :P . So I bruteforced it and got a sense making URL looking thing at ROT-7
+To start with I got a string that makes nosense except it was rotated :P . So I caesar bruteforced it and got a sense making URL looking thing at +7 shift.
 >http%3a%2f%2fwww.mediafire.com%2ffile%2f22a66amp7dbfldj%2fchallenge1.txt%2ffile
 
 except it was URL-encoded .After decoding it was like this 
